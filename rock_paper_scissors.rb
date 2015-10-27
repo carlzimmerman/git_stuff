@@ -92,3 +92,5 @@ sleep(1)
  play_again = gets.chomp.capitalize
 end
 end
+
+puts "hi"
